@@ -1,0 +1,7 @@
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.pdb
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.exe
+C:\Users\Nikita\Desktop\Year3\Artificial Intelligence\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.pdb
